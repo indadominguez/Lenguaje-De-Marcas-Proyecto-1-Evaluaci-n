@@ -34,8 +34,9 @@ En la carta se encuentran una gran variedad de pescados de la zona y la página 
 ## VENTA DE ENTRADAS
 La página web dispone de 2 tipos de entradas al estadio:
 
-- Entrada normal, en la que se incluye el asiento dentro del estadio situado donde haya elegido la persona
-- **Entrada VIP**,  el asiento se situa en la zona cubierta del estadio e incluye un menú degustación
+- Entrada normal, en la que se incluye el asiento dentro del estadio situado donde haya elegido la persona, el cammpo tiene 4 zonas para elegir:
+  fondo norte, fondo sur, tribuna y preferencia.
+- **Entrada VIP**,  el asiento se situa en la zona cubierta del estadio (tribuna) e incluye un menú degustación del restaurante "El faro de Cádiz".
 
 ---
 
@@ -46,3 +47,4 @@ En este apartado hablaremos de la historia del equipo:
 - Descensos
 - Trofeos Carranza memorables 
 
+---
