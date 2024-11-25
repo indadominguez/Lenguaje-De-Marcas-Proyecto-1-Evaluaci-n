@@ -8,7 +8,7 @@ El proyecto será una página web que informe exculsivamente del **CADIZ CF**, t
 
 ---
 
----
+
 
 ## DESARROLLO DE LA PÁGINA WEB
 Empezando la página nos encontramos con el menu principal de la misma, este contiene todo lo relacionado con la página web y cada una de las funciones de ella. 
