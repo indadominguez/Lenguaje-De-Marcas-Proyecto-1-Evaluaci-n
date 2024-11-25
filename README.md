@@ -11,7 +11,7 @@ El proyecto será una página web que informe exculsivamente del **CADIZ CF**, t
 ## DESARROLLO DE LA PÁGINA WEB
 Empezando la página nos encontramos con el menu principal de la misma, este contiene todo lo relacionado con la página web y cada una de las funciones de ella. 
 Para poder acceder solo hay que clicar encima de cada función, dentro de este menú tenemos acceso a registrarse o iniciar sesión en la página web, mirar entradas a los partidos y al museo del club,
-acceso al primer equipo del Cádiz y todo su cuerpo técnico, actualidad de la entidad amarilla y el BAR/ RESTAURANTE que se encuentra en el estadio. Toda esta información se encuentra actualizada desde la temporada 24/25.
+acceso al primer equipo del Cádiz y todo su cuerpo técnico, actualidad de la entidad amarilla y el BAR/RESTAURANTE que se encuentra en el estadio. Toda esta información se encuentra actualizada desde la temporada 24/25.
 
 ---
 
@@ -21,4 +21,28 @@ El registro a la página web está preparado para que el usuario pueda conectars
 ---
 
 ## Equipo Temporada 24/25
-Esta pestaña de la página tiene fotos de todos los jugadores del equipo y del entrenador, y una breve descripción del perfil del futbolista, con su nombre posición y edad.
+Esta pestaña de la página tiene fotos de todos los **jugadores del equipo** y **del entrenador**, y una breve descripción del perfil del futbolista, con su nombre posición y edad.
+
+---
+
+## BAR/RESTAURANTE
+Las instalaciones del **"Nuevo Mirandilla"**(Nombre que recibe el estadio desde 2021) presentan un servicio de comidas dentro del propio estadio. 
+En la carta se encuentran una gran variedad de pescados de la zona y la página web dispone del menu que presenta el restaurante. 
+
+---
+
+## VENTA DE ENTRADAS
+La página web dispone de 2 tipos de entradas al estadio:
+
+- Entrada normal, en la que se incluye el asiento dentro del estadio situado donde haya elegido la persona
+- **Entrada VIP**,  el asiento se situa en la zona cubierta del estadio e incluye un menú degustación
+
+---
+
+## HISTORIA DEL EQUIPO
+En este apartado hablaremos de la historia del equipo:
+- Jugadores relevantes
+- Ascensos
+- Descensos
+- Trofeos Carranza memorables 
+
