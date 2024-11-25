@@ -26,7 +26,7 @@ Esta pestaña de la página tiene fotos de todos los **jugadores del equipo** y 
 ---
 
 ## BAR/RESTAURANTE
-Las instalaciones del **"Nuevo Mirandilla"**(Nombre que recibe el estadio desde 2021) presentan un servicio de comidas dentro del propio estadio. 
+Las instalaciones del **"Nuevo Mirandilla"** (Nombre que recibe el estadio desde 2021) presentan un servicio de comidas dentro del propio estadio. 
 En la carta se encuentran una gran variedad de pescados de la zona y la página web dispone del menu que presenta el restaurante. 
 
 ---
