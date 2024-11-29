@@ -4,7 +4,7 @@ Primer proyecto de lenguaje de marcas.
 ---
 
 ## IDEA DEL TRABAJO
-El proyecto será una página web que informe exculsivamente del **CADIZ CF**, todo lo relacionado con el equipo amarillo pero únicamente en el deporte rey,"**El Fútbol**",el trabajo informará sobre la actualidad e historia del equipo y tenga apartados un poco más exclusivos como tours por el estadio, sorteos y venta de entradas al **Nuevo Mirandilla**. La página añadirá la opción de registrarse en ella para mayor disfrute de las funciones y ventajas para los miembros que quieran registrarse con subcripciones de pago.
+El proyecto será una página web que informe exculsivamente del **CADIZ CF**, todo lo relacionado con el equipo amarillo pero únicamente en el deporte rey,"**El Fútbol**",el trabajo informará sobre la actualidad e historia del equipo y tenga apartados un poco más exclusivos como tours por el estadio, sorteos y venta de entradas al **Nuevo Mirandilla**. 
 
 ---
 
@@ -28,6 +28,7 @@ Esta pestaña de la página tiene fotos de todos los **jugadores del equipo** y 
 ## BAR/RESTAURANTE
 Las instalaciones del **"Nuevo Mirandilla"** (Nombre que recibe el estadio desde 2021) presentan un servicio de comidas dentro del propio estadio. 
 En la carta se encuentran una gran variedad de pescados de la zona y la página web dispone del menu que presenta el restaurante. 
+En nuestra página web existirá un apartado exclusivo para nuestro BAR y su información.
 
 ---
 
@@ -37,6 +38,7 @@ La página web dispone de 2 tipos de entradas al estadio:
 - Entrada normal, en la que se incluye el asiento dentro del estadio situado donde haya elegido la persona, el cammpo tiene 4 zonas para elegir:
   fondo norte, fondo sur, tribuna y preferencia.
 - **Entrada VIP**,  el asiento se situa en la zona cubierta del estadio (tribuna) e incluye un menú degustación del restaurante "El faro de Cádiz".
+
 
 ---
 
