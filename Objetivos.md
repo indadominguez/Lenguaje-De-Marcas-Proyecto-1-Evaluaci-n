@@ -12,4 +12,4 @@ documento. Aunque en nuestro código aparezcan muchas etiquetas no son visibles 
 Para el trabajo vamos a utilizar el lenguaje de marca HTML, este lenguaje se ha adaptado para desarrollar la estructura básica de una página web y lo utilizaremos 
 para lo mismo, desarrollar nuestra página web. Además de HTML, existen más lenguajes de marcas como XML y Markdown, aunque los tres son válidos, HTML destaca de 
 los demás ya que es más expresivo por lo que, aunque sea un poco más dificil de escribir el desarrollo de nuestro código será mucho más expresivo y entendible,
-por ejemplo un texto escrito con Markdown puede convertirse en un HTML haciendo que sea más cómdo tenerlo directamente realizado en un HTML. XML sin embargo es más parecido a HTMo, solo que XML, describe como son los datos mientras que HTML determina la presentación.
+por ejemplo un texto escrito con Markdown puede convertirse en un HTML haciendo que sea más cómdo tenerlo directamente realizado en un HTML. XML sin embargo es más parecido a HTML, solo que XML, describe como son los datos mientras que HTML determina la presentación.
